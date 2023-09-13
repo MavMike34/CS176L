@@ -1,2 +1,2 @@
 # CS176L
-#Mike Montulet
+Mike Montulet
